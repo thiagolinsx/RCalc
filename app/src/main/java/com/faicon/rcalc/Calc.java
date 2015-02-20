@@ -165,7 +165,7 @@ public class Calc extends Activity implements View.OnClickListener {
                 op1 = 0;
                 op2 = 0;
                 disp.setText("");
-                disp.setHint("Aguardando Rache... ops usuário)");
+                disp.setHint("Aguardando Rache... ops Aguardando usuário)");
                 break;
             case R.id.add:
                 optr = "+";
